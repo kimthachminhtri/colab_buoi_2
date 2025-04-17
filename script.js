@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const members = [
             { name: "Tom", image: "images/tom.jpg" },
             { name: "Jerry", image: "images/jerry.jpg" },
-            { name: "Spike", image: "spike.jpg" }
+            { name: "Spike", image: "images/spike.jpg" }
         ];
 
         const main = document.querySelector("main");
